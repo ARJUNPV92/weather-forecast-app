@@ -1,0 +1,18 @@
+.app-container {
+  padding: 2rem;
+  font-family: Arial, sans-serif;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.search-box {
+  display: flex;
+  gap: 1rem;
+  margin-bottom: 2rem;
+}
+
+.forecast-grid {
+  display: flex;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
